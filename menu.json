@@ -1,0 +1,5 @@
+[
+    {"name": "Spaghetti", "price": 12.5, "category": "Main"},
+    {"name": "Caesar Salad", "price": 8.0, "category": "Starter"},
+    {"name": "Chocolate Cake", "price": 6.5, "category": "Dessert"}
+]
